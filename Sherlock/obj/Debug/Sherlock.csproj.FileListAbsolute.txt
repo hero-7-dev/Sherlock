@@ -1,0 +1,7 @@
+E:\Projects\Sherlock\Sherlock\Sherlock\bin\Debug\Sherlock.exe.config
+E:\Projects\Sherlock\Sherlock\Sherlock\bin\Debug\Sherlock.exe
+E:\Projects\Sherlock\Sherlock\Sherlock\bin\Debug\Sherlock.pdb
+E:\Projects\Sherlock\Sherlock\Sherlock\obj\Debug\Sherlock.csproj.AssemblyReference.cache
+E:\Projects\Sherlock\Sherlock\Sherlock\obj\Debug\Sherlock.csproj.CoreCompileInputs.cache
+E:\Projects\Sherlock\Sherlock\Sherlock\obj\Debug\Sherlock.exe
+E:\Projects\Sherlock\Sherlock\Sherlock\obj\Debug\Sherlock.pdb
